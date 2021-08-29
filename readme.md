@@ -1,0 +1,1 @@
+灵感源自: https://github.com/kkuchta/css-only-chat
